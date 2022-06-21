@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:mortar_board: I'm currently working on my PhD in the areas of **Distributed Data Analytics** or **Time Series Anomaly Detection**. 
+:mortar_board: I'm currently working on my PhD in the areas of **Distributed Data Analytics** and **Time Series Anomaly Detection**. 
 
 Feel free to ask me about my projects and possible collaborations.
 
