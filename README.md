@@ -16,6 +16,7 @@ Feel free to ask me about my projects and possible collaborations.
 - [TimeEval](https://github.com/HPI-Information-Systems/TimeEval): Time Series Analytics Benchmark and Evaluation Framework `🐍 Python`
 - [GutenTAG](https://github.com/HPI-Information-Systems/gutentag): A **Good** **T**ime Series **A**nomaly **G**enerator `🐍 Python`
 - [TimeEval-GUI](https://github.com/HPI-Information-Systems/TimeEval-GUI): A GUI for _TimeEval_ and _GutenTAG_ `🐍 Python`
+- [JET](https://github.com/hpi-Information-Systems/jet): A TS clustering algorithm that estimates a distance matrix to reduce runtime while keeping its effectiveness. `🐍 Python`
 
 ## :microscope: Data Science
 
