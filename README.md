@@ -1,9 +1,3 @@
-## Hi there 👋
-
-:mortar_board: I'm currently working on my PhD in the areas of **Distributed Data Analytics** and **Time Series Anomaly Detection**. 
-
-Feel free to ask me about my projects and possible collaborations.
-
 ## :chart_with_upwards_trend: Distributed Data Analytics
 
 - [Actix-Telepathy](https://github.com/wenig/actix-telepathy): Distributed Actor System for the Rust Programming Language `🦀 Rust`
